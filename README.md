@@ -1,3 +1,5 @@
+This project builds on the SPD (Stochastic Parameter Decomposition) codebase developed by Goodfire and collaborators. The original SPD code is available at [main](https://github.com/goodfire-ai/spd) and is distributed under the MIT License. Modifications and extensions in this repository are part of the FungalInterp project.
+
 # SPD - Stochastic Parameter Decomposition
 **Note: The [main](https://github.com/goodfire-ai/spd) branch contains active work from Goodfire and collaborators since this paper's release. This is now an open source
 research project. Please feel free to view the issues (or add to them) and make a PR!**
